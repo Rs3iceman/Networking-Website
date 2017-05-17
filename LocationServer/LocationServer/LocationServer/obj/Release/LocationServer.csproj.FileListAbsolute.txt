@@ -1,0 +1,2 @@
+G:\08246\LocationServer\LocationServer\LocationServer\bin\Release\LocationServer.exe.config
+F:\08246\LocationServer\LocationServer\LocationServer\bin\Release\LocationServer.exe.config

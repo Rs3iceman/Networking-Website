@@ -1,0 +1,24 @@
+G:\08241(Networking)\MyClient\LocationServer\LocationServer\LocationServer\bin\Debug\LocationServer.exe.config
+G:\08241(Networking)\MyClient\LocationServer\LocationServer\LocationServer\bin\Debug\LocationServer.exe
+G:\08241(Networking)\MyClient\LocationServer\LocationServer\LocationServer\bin\Debug\LocationServer.pdb
+G:\08241(Networking)\MyClient\LocationServer\LocationServer\LocationServer\obj\Debug\LocationServer.csprojResolveAssemblyReference.cache
+G:\08241(Networking)\MyClient\LocationServer\LocationServer\LocationServer\obj\Debug\LocationServer.exe
+G:\08241(Networking)\MyClient\LocationServer\LocationServer\LocationServer\obj\Debug\LocationServer.pdb
+G:\08246\LocationServer\LocationServer\LocationServer\bin\Debug\LocationServer.exe.config
+G:\08246\LocationServer\LocationServer\LocationServer\obj\Debug\LocationServer.exe
+G:\08246\LocationServer\LocationServer\LocationServer\obj\Debug\LocationServer.pdb
+G:\08246\LocationServer\LocationServer\LocationServer\bin\Debug\LocationServer.exe
+G:\08246\LocationServer\LocationServer\LocationServer\bin\Debug\LocationServer.pdb
+G:\08246\LocationServer - Copy\LocationServer\LocationServer\bin\Debug\LocationServer.exe.config
+G:\08246\LocationServer - Copy\LocationServer\LocationServer\obj\Debug\LocationServer.exe
+G:\08246\LocationServer - Copy\LocationServer\LocationServer\obj\Debug\LocationServer.pdb
+G:\08246\LocationServer - Copy\LocationServer\LocationServer\bin\Debug\LocationServer.exe
+G:\08246\LocationServer - Copy\LocationServer\LocationServer\bin\Debug\LocationServer.pdb
+G:\08246\LocationServer - Copy\LocationServer\LocationServer\obj\Debug\LocationServer.csprojResolveAssemblyReference.cache
+G:\08246\LocationServer -Working Copy - Copy\LocationServer\LocationServer\bin\Debug\LocationServer.exe.config
+G:\08246\LocationServer -Working Copy - Copy\LocationServer\LocationServer\obj\Debug\LocationServer.exe
+G:\08246\LocationServer -Working Copy - Copy\LocationServer\LocationServer\obj\Debug\LocationServer.pdb
+G:\08246\LocationServer -Working Copy - Copy\LocationServer\LocationServer\bin\Debug\LocationServer.exe
+G:\08246\LocationServer -Working Copy - Copy\LocationServer\LocationServer\bin\Debug\LocationServer.pdb
+G:\08246\LocationServer -Working Copy - Copy\LocationServer\LocationServer\obj\Debug\LocationServer.csprojResolveAssemblyReference.cache
+G:\08246\LocationServer\LocationServer\LocationServer\obj\Debug\LocationServer.csprojResolveAssemblyReference.cache
